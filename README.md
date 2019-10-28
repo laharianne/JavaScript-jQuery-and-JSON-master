@@ -2,4 +2,4 @@
 
 learning notes.
 
-view the course: https://www.coursera.org/learn/javascript-jquery-json
+assignments and solutions
